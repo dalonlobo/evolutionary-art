@@ -1,2 +1,3 @@
-# evolutionary-art
-Final Project for CSCI 340
+# An Exploration of Different Techniques for Artificially Producing Art
+
+Checkout the [Final-report.pdf](Final-report.pdf)!
